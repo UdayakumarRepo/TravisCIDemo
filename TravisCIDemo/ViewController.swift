@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import PassKit
 
 class ViewController: UIViewController {
 
