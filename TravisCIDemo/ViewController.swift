@@ -8,6 +8,7 @@
 
 import UIKit
 import PassKit
+import Accelerate
 
 class ViewController: UIViewController {
 
